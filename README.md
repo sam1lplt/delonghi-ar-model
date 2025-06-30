@@ -7,6 +7,8 @@ Bu proje, De'Longhi La Specialista Maestro Cold Brew espresso makinesi için gel
 
 ---
 
+##Link: https://www.jebinde.com/detay/delonghi-la-specialista-maestro-cold-brew-ec9865-m-manuel-espresso-makinesi-91620
+
 ## Canlı Video Demo
 
 [![Delonghi La Specialista Maestro AR Model](https://img.youtube.com/vi/9npDSn7vT6M/0.jpg)](https://youtu.be/9npDSn7vT6M)
